@@ -1,7 +1,8 @@
 Sends notification to a XBMC specified by arguments
+
 Usage: call-xbmc.sh "Example Text" 10000 raspberry 8080
 
-Notification will be the hostname of your client + "says:"
+Title of notification will be the hostname of your client + "says:"
 
 m@rcus.net - 01/2013
 
